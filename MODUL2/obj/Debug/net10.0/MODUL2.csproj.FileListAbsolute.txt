@@ -1,0 +1,14 @@
+C:\C#\MODUL2\bin\Debug\net10.0\MODUL2.exe
+C:\C#\MODUL2\bin\Debug\net10.0\MODUL2.deps.json
+C:\C#\MODUL2\bin\Debug\net10.0\MODUL2.runtimeconfig.json
+C:\C#\MODUL2\bin\Debug\net10.0\MODUL2.dll
+C:\C#\MODUL2\bin\Debug\net10.0\MODUL2.pdb
+C:\C#\MODUL2\obj\Debug\net10.0\MODUL2.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\MODUL2\obj\Debug\net10.0\MODUL2.AssemblyInfoInputs.cache
+C:\C#\MODUL2\obj\Debug\net10.0\MODUL2.AssemblyInfo.cs
+C:\C#\MODUL2\obj\Debug\net10.0\MODUL2.csproj.CoreCompileInputs.cache
+C:\C#\MODUL2\obj\Debug\net10.0\MODUL2.dll
+C:\C#\MODUL2\obj\Debug\net10.0\refint\MODUL2.dll
+C:\C#\MODUL2\obj\Debug\net10.0\MODUL2.pdb
+C:\C#\MODUL2\obj\Debug\net10.0\MODUL2.genruntimeconfig.cache
+C:\C#\MODUL2\obj\Debug\net10.0\ref\MODUL2.dll
