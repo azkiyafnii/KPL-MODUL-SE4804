@@ -1,0 +1,27 @@
+{
+    "watchlistName": "Weekend Marathon",
+    "createdBy": "Kelompok 07",
+    "movies": [
+        {
+            "id": "F101",
+            "title": "The Matrix",
+            "year": 1999,
+            "genre": "Action",
+            "rating": 8.7
+        },
+        {
+            "id": "F102",
+            "title": "Parasite",
+            "year": 2019,
+            "genre": "Thriller",
+            "rating": 8.5
+        },
+        {
+            "id": "F103",
+            "title": "Avengers: Endgame",
+            "year": 2019,
+            "genre": "Superhero",
+            "rating": 8.4
+        }
+    ]
+}
